@@ -1,0 +1,37 @@
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# SQLite database (auto-generated)
+db.sqlite3
+
+# Environment files
+.env
+*.env
+
+# Django static/media files (if you generate them locally)
+staticfiles/
+media/
+
+# VS Code settings
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Python virtual environment
+venv/
+env/
+.venv/
+ENV/
+
+# PyCharm
+.idea/
+
+# Migrations (optional — if you don't want to track initial migrations)
+# **Be careful with this!** Usually you DO want to track migrations.
+# */migrations/
+# !*/migrations/__init__.py
