@@ -4,6 +4,6 @@ from . import views
 #localhost:8000/pizza
 #localhost:8000/pizza/order
 urlpatterns = [
-    path('',views.all_pizza , name='all_pizza'),
-    path('order',views.all_pizza , name='order'),
+    path('',views.all_pizza , name='all_pizza '),
+   
 ]
